@@ -1,0 +1,9 @@
+[
+  {"woord": "mens", "soort": "znw", "betekenis": "levend wezen", "synoniemen": ["persoon", "individu"], "voorbeeld": "Ik ben een mens."},
+  {"woord": "chatbot", "soort": "znw", "betekenis": "praatrobot", "synoniemen": ["robot", "computer"], "voorbeeld": "Taco is een chatbot."},
+  {"woord": "ziek", "soort": "bnw", "betekenis": "niet gezond", "synoniemen": ["onwel"], "voorbeeld": "Ik ben ziek."},
+  {"woord": "computer", "soort": "znw", "betekenis": "elektronisch apparaat", "synoniemen": ["pc"], "voorbeeld": "Taco is een computer."},
+  {"woord": "gelukkig", "soort": "bnw", "betekenis": "blij, tevreden", "synoniemen": ["vrolijk"], "voorbeeld": "Ik ben gelukkig."},
+  {"woord": "Antwerpen", "soort": "znw", "betekenis": "stad in België", "synoniemen": [], "voorbeeld": "Ik woon in Antwerpen."},
+  {"woord": "1975", "soort": "getal", "betekenis": "jaar", "synoniemen": [], "voorbeeld": "Ik ben geboren in 1975."}
+]

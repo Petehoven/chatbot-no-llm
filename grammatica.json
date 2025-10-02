@@ -1,0 +1,20 @@
+{
+  "woordsoorten": {
+    "znw": "zelfstandig naamwoord",
+    "ww": "werkwoord",
+    "bnw": "bijvoeglijk naamwoord",
+    "getal": "getal"
+  },
+  "zinsdelen": [
+    "onderwerp",
+    "gezegde",
+    "lijdend voorwerp",
+    "meewerkend voorwerp",
+    "bijwoordelijke bepaling"
+  ],
+  "basisstructuren": [
+    "onderwerp + gezegde",
+    "onderwerp + gezegde + lijdend voorwerp",
+    "onderwerp + gezegde + bijwoordelijke bepaling"
+  ]
+}
